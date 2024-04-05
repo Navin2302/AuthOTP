@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752239296844",
+    "project_id": "otpauthapp-2c116",
+    "storage_bucket": "otpauthapp-2c116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752239296844:android:ff9d5ab7651765875c4fe9",
+        "android_client_info": {
+          "package_name": "com.navin2302.AuthOTP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7pesH6dSgQ_tVnzmYTZSivmMAMR-LJUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
